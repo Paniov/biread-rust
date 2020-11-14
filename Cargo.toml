@@ -1,5 +1,5 @@
 [package]
-name = "app"
+name = "biread-rust"
 version = "0.1.0"
 authors = ["paniov <paniov@gmail.com>"]
 edition = "2018"

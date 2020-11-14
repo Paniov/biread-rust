@@ -15,5 +15,5 @@ extern {
 
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, app!");
+    alert("Hello, biread-rust!");
 }
